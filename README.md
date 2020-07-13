@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**LucasOnofre/LucasOnofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas and I'm an Android Developer
 
-Here are some ideas to get you started:
+- :computer:  &nbsp;&nbsp; I’m currently working on [Picpay](https://www.picpay.com/site);
+- :pencil2:  &nbsp;&nbsp; Currently studyng Android development and Javascript
+- :video_game: &nbsp;&nbsp; More: I like Basketball, Video games, Rock, Rap, Lo-fi music and Animes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Other places to find me:
+<p>
+	<a href="https://www.linkedin.com/in/lucas-onofre/" title="Lucas Onofre - LinkedIn" target="_blank">
+		<img alt="Lucas Onofre - LinkedIn" src="https://user-images.githubusercontent.com/3269950/87224345-ee420b00-c35a-11ea-89cd-215268e9e4bd.png" height="30" />
+	</a>
+	&nbsp; &nbsp;
+	<a href="https://twitter.com/LucaasOnofre" title="Lucas Onofre - Twitter" target="_blank">
+		<img alt="Lucas Onofre - Twitter" src="https://user-images.githubusercontent.com/3269950/87224359-fac66380-c35a-11ea-8a66-d088205525f4.png" height="30" />
+</p>
