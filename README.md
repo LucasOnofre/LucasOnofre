@@ -3,7 +3,7 @@
 My name is Lucas and I'm an Android Developer
 
 - :computer:  &nbsp;&nbsp; I’m currently working on [Picpay](https://www.picpay.com/site);
-- :pencil2:  &nbsp;&nbsp; Currently studying Android development, Node, React and React Native
+- :pencil2:  &nbsp;&nbsp; Currently studying Android development
 - :video_game: &nbsp;&nbsp; <b>More:</b> I like Basketball, Video games, Rock, Rap, Lo-fi music and Animes.
 
 
