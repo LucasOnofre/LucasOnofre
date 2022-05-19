@@ -2,7 +2,7 @@
 
 My name is Lucas and I'm an Android Developer
 
-- :computer:  &nbsp;&nbsp; I’m currently working on [Xp Inc](https://https://www.xpi.com.br/);
+- :computer:  &nbsp;&nbsp; I’m currently working on [XpInc](https://www.xpi.com.br/);
 - :pencil2:  &nbsp;&nbsp; Currently studying Android development
 - :video_game: &nbsp;&nbsp; <b>More:</b> I like Basketball, Video games, Rock, Rap, Lo-fi music and Animes.
 
