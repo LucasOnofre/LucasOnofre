@@ -3,8 +3,6 @@
 My name is Lucas and I'm an Android Developer
 
 - :pencil2:  &nbsp;&nbsp; Currently studying Android development
-- :video_game: &nbsp;&nbsp; <b>More:</b> I like Basketball, Video games, Rock, Rap, Lo-fi music and Animes.
-
 
 #### Other places to find me:
 <p>
