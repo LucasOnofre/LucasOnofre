@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Lucas and I'm an Android Developer
+My name is Lucas and I'm an Android Developer for almost 8 years.
 
-- :pencil2:  &nbsp;&nbsp; Currently studying Android development
+🖥 Bachelor's degree in Computer Science 🎓 Postgraduate in Data Science and Software development
 
 #### Other places to find me:
 <p>
